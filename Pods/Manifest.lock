@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - FeedKit (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - FeedKit (from `https://github.com/nmdias/FeedKit.git`)
+
+EXTERNAL SOURCES:
+  FeedKit:
+    :git: https://github.com/nmdias/FeedKit.git
+
+CHECKOUT OPTIONS:
+  FeedKit:
+    :commit: 2733194a77e6d6b7c41c6ee7576285f9739959e7
+    :git: https://github.com/nmdias/FeedKit.git
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  FeedKit: f3edf3ba14a3aef57caceec91ef77745d10abbbe
+
+PODFILE CHECKSUM: c2246c8e466c929ff45d00a16a6733e47bd0c29f
+
+COCOAPODS: 1.0.0.beta.3

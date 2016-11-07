@@ -1,0 +1,6 @@
+framework module Pods_FeedKitTest {
+  umbrella header "Pods-FeedKitTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
